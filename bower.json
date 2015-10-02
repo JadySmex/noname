@@ -1,0 +1,15 @@
+{
+  "name": "angular",
+  "version": "1.0.0",
+  "dependencies": {
+    "bootstrap": "latest",
+    "font-awesome": "latest",
+    "animate.css": "latest",
+    "angular": "latest",
+    "angular-route": "latest",
+    "pixeden-stroke-7-icon": "latest",
+    "ngtoast": "latest",
+    "angular-recaptcha": "~2.2.4",
+    "aws-sdk-js": "~2.1.45"
+  }
+}
